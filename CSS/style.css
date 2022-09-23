@@ -1,0 +1,26 @@
+.blog{
+    background-color: skyblue;
+    border: 10px solid yellow;
+    border-radius: 30px;
+    margin: 10px 20px 30px 40px;
+    padding: 20px;
+    text-align: justify;
+}
+
+.blog-title{
+    text-align: center;
+    font-size: 30px;
+}
+
+.author-name{
+    color: red;
+}
+
+.pro{
+    font-size: 20px;
+}
+
+.roy{
+    text-align: center;
+    font-size: 50px;
+}
